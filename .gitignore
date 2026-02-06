@@ -1,0 +1,13 @@
+# Visual Studio 本地缓存（核心忽略项）
+.vs/
+# bin/obj 编译输出目录
+bin/
+obj/
+# VS 生成的用户配置
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# 其他通用忽略
+packages/
+TestResults/
